@@ -1,0 +1,10 @@
+Implementar un sistema de matricula y notas para la UDH, con
+- Autenticacion
+- Separar los tipos de usuario
+    - Estudiantes -> ver sus notas
+                  -> matricularse
+    - Profesores -> Ingresar notas
+    - Administrador -> Crear usuarios
+                    -> asignar cursos a los profesores
+                    -> crear cursos
+
